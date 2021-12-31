@@ -1,5 +1,9 @@
 ###  Happy to see you here. 👋
 
+In 2021, I made 222 contributions and modified 10,000 lines of code. Check out my GitHub Wrapped and create your own at [githubtrends.io/wrapped/trevorwang](https://www.githubtrends.io/wrapped/trevorwang)
+<img width="1689" alt="Screen Shot 2021-12-31 at 2 36 17 PM" src="https://user-images.githubusercontent.com/121966/147807679-0ddff91a-d3f7-4afa-802e-38d45af1a503.png">
+
+
 
 - 🔭 I’m currently working on [retrofit.dart](https://github.com/trevorwang/retrofit.dart).
 - 🌱 I’m currently learning redux.
@@ -67,3 +71,5 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 ![codeSTACKr's Github Stats](https://github-readme-stats.vercel.app/api?username=trevorwang&show_icons=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trevorwang&show_icons=true)
+
+
